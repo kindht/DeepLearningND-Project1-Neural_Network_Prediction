@@ -1,4 +1,4 @@
-# DeepLearningND-Project1-Neural_Network_Prediction
+# Neural_Network_Prediction
 
 This is the first project in the course of Deep Learning at Udacity
 
