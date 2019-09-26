@@ -1,7 +1,21 @@
-# 神经网络预测 - Neural_Network_Prediction
+# 深度学习 (纳米学位）- 项目1 - 神经网络预测 
+# DeepLearning Nanodegreee - Project1 - Neural_Network_Prediction
 
-This is the first project in the course of Deep Learning at Udacity
+[//]: # (Image References)
+[image1.1]: ./example1.png
+[image1.2]: ./example2.png
+[image2]: ./Pass.png
 
-The project uses historical data for bike-sharing to predict number of renters daily 
+This is the 1st project in the course of **Deep Learning** at Udacity
 
-The project implements **forward/backward propagation**, **sigmoid** function , and MSE(mean of squared error) function.
+The project used historical data for bike-sharing to predict the number of users in a day. 
+
+The project used **Numpy** and **Python** to build and train a network, it implemented **forward/backward propagation**, **sigmoid** function , and **MSE**(mean of squared error) loss function.
+
+Example output 
+
+![alt text][image1.1]
+![alt text][image1.2]
+
+Here is the Certificate for the Project Completion.
+![alt text][image2]
