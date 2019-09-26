@@ -1,4 +1,4 @@
-# 深度学习 (纳米学位）- 项目1 - 神经网络预测 
+# 深度学习 (纳米学位）- 项目1  - 神经网络预测 
 # DeepLearning ND - Project1 - Neural_Network_Prediction
 
 [//]: # (Image References)
