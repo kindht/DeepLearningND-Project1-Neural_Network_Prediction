@@ -10,7 +10,7 @@ This is the 1st project for the **Deep Learning** Nanodegree program at [Udacity
 
 The project used historical data for bike-sharing to predict the number of users in a day. 
 
-The project used **numpy/pandas** and **Python** to build and train a network, it implemented **forward/backward propagation**, **sigmoid** function , and **MSE**(mean of squared error) loss function.
+The project used **numpy/pandas** and **Python** to build and train a network, it implemented **forward/backward propagation**, sigmoid function , and MSE(mean of squared error) loss function.
 
 Here is the project file [Neural_Network_Prediction.ipynb](Neural_Network_Prediction.ipynb)   
 Note:  you may use https://nbviewer.jupyter.org/ to quickly load .ipynb file
