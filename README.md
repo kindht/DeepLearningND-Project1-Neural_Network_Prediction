@@ -15,10 +15,12 @@ The project used **numpy/pandas** and **Python** to build and train a network, i
 Here is the project file [Neural_Network_Prediction.ipynb](Neural_Network_Prediction.ipynb)   
 Note:  you may use https://nbviewer.jupyter.org/ to quickly load .ipynb file
 
-Example output 
+---
+#### Example output 
 
 ![alt text][image1.1]
 ![alt text][image1.2]
 
-Here is the Certificate for the Project Completion.
+---
+#### Certificate for the Project Completion
 ![alt text][image2]
